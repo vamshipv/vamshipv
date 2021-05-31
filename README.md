@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My Github Stats
-[![vamshi's github stats](https://github-readme-stats.vercel.app/api?username=vamshipv&theme=blue-green)](https://github.com/vamshipv/github-readme-stats)
+[![vamshi's  github stats](https://github-readme-stats.vercel.app/api?username=vamshipv&theme=blue-green)](https://github.com/vamshipv/github-readme-stats)
 <br>
 ## My Activity
-[![vamshi's github streak](https://github-readme-streak-stats.herokuapp.com/?user=vamshipv&theme=blue-green)](https://github.com/vamshipv/github-readme-streak-stats)
+[![vamshi's  github streak](https://github-readme-streak-stats.herokuapp.com/?user=vamshipv&theme=blue-green)](https://github.com/vamshipv/github-readme-streak-stats)
 </p>
