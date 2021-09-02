@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 [![vamshi's  github streak](https://github-readme-streak-stats.herokuapp.com/?user=vamshipv&theme=blue-green)](https://github.com/vamshipv/github-readme-streak-stats)
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
