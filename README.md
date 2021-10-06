@@ -13,8 +13,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
 <br />
-![Java](https://img.shields.io/badge/C%23%20-05122A?style=flat&logo=python) &nbsp;
-![C#](https://img.shields.io/badge/C%23%20-05122A?style=flat&logo=c-sharp&logoColor=FFA518)
+![C#](https://img.shields.io/badge/C%23%20-05122A?style=flat&logo=c-sharp) &nbsp;
+![Python](https://img.shields.io/badge/C%23%20-05122A?style=flat&logo=python)
   <br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
