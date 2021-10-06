@@ -14,12 +14,13 @@
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
 <br />
 ![Python](https://img.shields.io/badge/C%23%20-05122A?style=flat&logo=python) &nbsp;
-![C#](https://img.shields.io/badge/C%23%20-05122A?style=flat&logo=c-sharp&logoColor=FFA518) &nbsp;
+![C#](https://img.shields.io/badge/C%23%20-05122A?style=flat&logo=c-sharp&logoColor=FFA518)
   <br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br />
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
   
   
 
@@ -39,10 +40,10 @@
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
-### 🏆 GitHub Profile Trophy:
+<!-- ### 🏆 GitHub Profile Trophy:
   <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=vamshipv&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
+</a> -->
     
 <!-- retro visitor counter -->  
 <p align="center" >   
