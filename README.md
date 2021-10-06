@@ -22,10 +22,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   
   
-### 🏆 GitHub Profile Trophy:
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=vamshipv&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
+
 
   
 ## 📊 Github Stats
@@ -41,6 +38,11 @@
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
+
+### 🏆 GitHub Profile Trophy:
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=vamshipv&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+</a>
     
 <!-- retro visitor counter -->  
 <p align="center" >   
