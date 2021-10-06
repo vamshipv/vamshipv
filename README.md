@@ -4,7 +4,7 @@
 
   <br>
   
-  ### 🛠 &nbsp;Tech Stack
+  ### 🛠 &nbsp;My Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -27,15 +27,6 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=vamshipv&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
 
-
-
-  
-  
-
-
-<!--   GitHub stats graph -->
-<!-- ### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vamshipv&theme=github) -->
   
 ## 📊 Github Stats
 [![vamshi's  github stats](https://github-readme-stats.vercel.app/api?username=vamshipv&theme=blue-green)](https://github.com/vamshipv/github-readme-stats)
