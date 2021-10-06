@@ -14,14 +14,14 @@
   
   
 <!--   Top Languages Using -->
-### 👨‍💻 Top Languages Used*:
+### 👨‍💻 Top Languages Used:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vamshipv&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vamshipv&theme=nord_dark)
 
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vamshipv&theme=github)
+<!-- ### 📈 GitHub Activity Graph:
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vamshipv&theme=github) -->
   
 ## My Github Stats
 [![vamshi's  github stats](https://github-readme-stats.vercel.app/api?username=vamshipv&theme=blue-green)](https://github.com/vamshipv/github-readme-stats)
@@ -31,3 +31,4 @@
 </p>
 
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vamshipv&layout=compact)](https://github.com/vamshipv/github-readme-stats) -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vamshipv&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
