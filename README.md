@@ -14,7 +14,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
 <br />
 ![C#](https://img.shields.io/badge/C%23%20-05122A?style=flat&logo=c-sharp) &nbsp;
-![Python#](https://img.shields.io/badge/C%23%20-05122A?style=flat&logo=python)
+![PythonOp](https://img.shields.io/badge/C%23%20-05122A?style=flat&logo=python)
   <br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
