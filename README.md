@@ -27,9 +27,9 @@
 
   
 ## 📊 Github Stats
-[![vamshi's  github stats](https://github-readme-stats.vercel.app/api?username=vamshipv&theme=blue-green)](https://github.com/vamshipv/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=vamshipv&theme=blue-green)](https://github.com/vamshipv/github-readme-stats)
 <br>
 ## 📈 GitHub Activity
-[![vamshi's  github streak](https://github-readme-streak-stats.herokuapp.com/?user=vamshipv&theme=blue-green)](https://github.com/vamshipv/github-readme-streak-stats)
+[![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=vamshipv&theme=blue-green)](https://github.com/vamshipv/github-readme-streak-stats)
 </p>
 
