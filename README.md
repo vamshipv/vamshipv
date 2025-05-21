@@ -29,7 +29,7 @@
 <!-- ## 📊 Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=vamshipv&theme=blue-green)](https://github.com/vamshipv/github-readme-stats)
 <br> -->
-## 📈 GitHub Activity
+<!--## 📈 GitHub Activity
 [![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=vamshipv&theme=blue-green)](https://github.com/vamshipv/github-readme-streak-stats)
-</p>
+</p> -->
 
